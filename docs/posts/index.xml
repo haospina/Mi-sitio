@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Sitio</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Mi Sitio</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 27 Jun 2025 15:27:50 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer Post</title>
+      <link>/posts/primer-post/</link>
+      <pubDate>Fri, 27 Jun 2025 15:27:50 +0000</pubDate>
+      <guid>/posts/primer-post/</guid>
+      <description>&lt;h1 id=&#34;bienvenidos&#34;&gt;Bienvenidos&amp;hellip;!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Este es el Blog Mi sitio&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;En él reflexionamos sobre lo cotidiano&amp;hellip; y lo no cotidiano; sobre la vida, la sociedad y, sobre todo, el ser humano que somos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Para tener una idea del mundo y la sociedad en que vivimos, debemos tener primero una idea de lo que somos; seguramente por ese motivo la naturaleza nos recluye durante nueve meses en el útero materno antes de salir a ver qué hay por ahí&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
