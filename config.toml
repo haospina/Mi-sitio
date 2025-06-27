@@ -1,0 +1,27 @@
+
+languageCode = "es"
+title = "Mi Sitio"
+theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    title = "Contacto"
+    url = "/contacto/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+
+
+
+
+
+
+
+
+theme = "tale"
